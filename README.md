@@ -1,3 +1,6 @@
+
+The first committed code is come from the reposity of https://github.com/YadiraF/GAN.git
+
 I organized this reposity mainly for learning GANs, so all codes about classical GANs were implemented with simple network structure and tested by MNIST dataset.   
 Just know about how mathmatical analysis (in network structure and loss function) works in actual codes, learn how others implement the GANs, and finally, enjoy the magic of GANs :-D   
 
